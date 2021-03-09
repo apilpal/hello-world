@@ -8,7 +8,8 @@ printf("\nAdd.. %d\n",i+j);
 printf("Sub.. %d\n",i-j);
 printf("Mul.. %d\n",i*j);
 printf("Div.. %d\n",i/j);
-printf("\nDone!!\n" );
+printf("Mod .. %d\n", i%j);
+printf("\nDone!!\n", );
 return 0;
 /*Comment Andrew/
 /*Comment by Mayank*/
